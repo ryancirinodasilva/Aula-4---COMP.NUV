@@ -96,9 +96,6 @@ docker stop web-aula4
 docker rm web-aula4
 docker ps -a
 stop → interrompe a execução
-
 rm → remove o contêiner
-
 ps -a → mostra contêineres ativos e parados
-
 Boa prática: Não manter recursos desnecessários em execução.
